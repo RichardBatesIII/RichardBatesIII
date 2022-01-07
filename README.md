@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RichardBatesIII
+- 👀 I’m interested in gaming
+- 🌱 I’m currently learning Java
+- 📫 How to reach me on discord TheWonderingSoul#5091
