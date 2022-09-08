@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RichardBatesIII
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning Java
-- 📫 How to reach me on discord TheWonderingSoul#5091
+- 🌱 I’m currently learning Java, C#, and Devops
+- 📫 How to reach me on discord TheWonderingSoul#5091 or check out my non-school github page https://github.com/YeetAtTheBluWolf.
